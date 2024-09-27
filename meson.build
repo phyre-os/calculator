@@ -1,5 +1,5 @@
 project(
-    'io.elementary.calculator', 'vala', 'c',
+    'io.phyre.calculator', 'vala', 'c',
     meson_version : '>= 0.58.0',
     version: '8.0.0'
 )
