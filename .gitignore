@@ -1,0 +1,10 @@
+.flatpak-builder
+.flatpak
+*~
+~*
+build
+builddir
+.idea/modules.xml
+.idea/php.xml
+.idea/phyreos-calculator.iml
+.idea/vcs.xml

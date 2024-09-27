@@ -1,0 +1,153 @@
+# Hebrew translation for pantheon-calculator
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the pantheon-calculator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pantheon-calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:38+0000\n"
+"PO-Revision-Date: 2024-09-02 00:47+0000\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"Language-Team: Hebrew <https://l10n.phyre-os.io/projects/calculator/extra/"
+"he/>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2016-12-31 04:44+0000\n"
+
+#: data/calculator.metainfo.xml.in:10
+#: data/io.elementary.calculator.desktop.in:6
+msgid "Calculator"
+msgstr "מחשבון"
+
+#: data/calculator.metainfo.xml.in:11
+#: data/io.elementary.calculator.desktop.in:7
+msgid "Solve simple equations"
+msgstr "פתרון משוואות פשוטות"
+
+#: data/calculator.metainfo.xml.in:13
+msgid ""
+"A simple calculator for everyday use. It supports basic and some scientific "
+"calculations including trigonometry functions, sin, cos, and tan."
+msgstr ""
+"מחשבון פשוט לשימוש יומיומי. תומך בחישובים בסיסיים ואף מעט מדעיים כולל "
+"פונקציות טריגונומטריות – סינוס, קוסינוס וטנגנס."
+
+#: data/calculator.metainfo.xml.in:62 data/calculator.metainfo.xml.in:71
+#: data/calculator.metainfo.xml.in:84 data/calculator.metainfo.xml.in:99
+#: data/calculator.metainfo.xml.in:110
+msgid "Minor updates:"
+msgstr "עדכונים משניים:"
+
+#: data/calculator.metainfo.xml.in:64 data/calculator.metainfo.xml.in:74
+#: data/calculator.metainfo.xml.in:88 data/calculator.metainfo.xml.in:103
+#: data/calculator.metainfo.xml.in:113
+msgid "Updated translations"
+msgstr "עודכנו תרגומים"
+
+#: data/calculator.metainfo.xml.in:73
+msgid "Branding color changed to Mint 500"
+msgstr "צבע המיתוג הוחלף במנטה 500"
+
+#: data/calculator.metainfo.xml.in:86
+msgid "Always use elementary styles and icons, even on other platforms"
+msgstr "תמיד להשתמש בסגנונות ובסמלים של elementary, אפילו בפלטפורמות אחרות"
+
+#: data/calculator.metainfo.xml.in:87
+msgid "Always paste text with the keyboard shortcut \"Ctrl + V\""
+msgstr "תמיד להדביק טקסט עם קיצור המקלדת „Ctrl+V”"
+
+#: data/calculator.metainfo.xml.in:101
+msgid "Redesigned app icon"
+msgstr "סמל היישום עוצב מחדש"
+
+#: data/calculator.metainfo.xml.in:102
+msgid "Flat titlebar"
+msgstr "שורת כותרת שטוחה"
+
+#: data/calculator.metainfo.xml.in:112
+msgid "Update for OS 7 and Gtk 4"
+msgstr "עדכון ל־OS 7 ו־Gtk 4"
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/io.elementary.calculator.desktop.in:10
+msgid "Calculation;Mathematics;Arithmetic;Scientific;"
+msgstr "חישוב;מתמטיקה;אריתמטיקה;חשבון;מדעי;"
+
+#: data/io.elementary.calculator.desktop.in:21
+msgid "New Window"
+msgstr "חלון חדש"
+
+#~ msgid "elementary, Inc."
+#~ msgstr "elementary בע״מ."
+
+#~ msgid "Update to elementary 6.1 runtime"
+#~ msgstr "עודכן לסביבת הריצה 6.1 של elementary"
+
+#~ msgid "Showing advanced controls only affects the focused window"
+#~ msgstr "הצגת פקדים מתקדמים משפיעה רק על החלונות הממוקדים"
+
+#~ msgid "Focus the main text entry on startup"
+#~ msgstr "התמקדות על מילוי הטקסט העיקרי עם הפתיחה"
+
+#~ msgid "Show the correct window title in Multitasking View"
+#~ msgstr "הצגת כותרת החלון הנכונה בתצוגת ריבוי משימות"
+
+#~ msgid "Added 'New Window' Desktop Action"
+#~ msgstr "נוספה פעולת ‚חלון חדש’ לשולחן העבודה"
+
+#~ msgid "New features:"
+#~ msgstr "תכונות חדשות:"
+
+#~ msgid "Add a \"Clear History\" button to the history dialog"
+#~ msgstr "נוסף כפתור „פינוי היסטוריה” לחלונית ההיסטוריה"
+
+#~ msgid "Fixed an issue with multiple windows"
+#~ msgstr "תוקנה תקלה עם ריבוי חלונות"
+
+#~ msgid "More informative copy in history dialog"
+#~ msgstr "העתקה מפורטת יותר בחלונית ההיסטוריה"
+
+#~ msgid "Add log and inverse trigonometric functions"
+#~ msgstr "נוספו לוג ופונקציות טריגונומטריות הפוכות"
+
+#~ msgid "Other updates:"
+#~ msgstr "עדכונים אחרים:"
+
+#~ msgid "Fix an issue with negative decimals without leading digits"
+#~ msgstr "תוקנה תקלה עם עשרוניים שליליים ללא אפס מקדים"
+
+#~ msgid "More efficient state saving"
+#~ msgstr "שמירת מצב יעילה יותר"
+
+#~ msgid "Use slim titlebar"
+#~ msgstr "להשתמש בשורת כותרת צרה"
+
+#~ msgid "Fix inserting multi-byte characters"
+#~ msgstr "תיקון הוספת תווים מרובי בתים"
+
+#~ msgid "Fix missing icon for Ukrainian"
+#~ msgstr "תיקון סמל חסר לאוקראינית"
+
+#~ msgid "Animate Infobar when hiding and showing"
+#~ msgstr "הנפשת פס המידע בעת הסתרה או הצגה"
+
+#~ msgid "Fix selection replace"
+#~ msgstr "תיקון החלפת בחירה"
+
+#~ msgid "Improved decimal separator localization"
+#~ msgstr "התאמת מפריד אלפים השתפרה"
+
+#~ msgid "io.elementary.calculator"
+#~ msgstr "io.elementary.calculator"
+
+#~ msgid "accessories-calculator"
+#~ msgstr "accessories-calculator"
+
+#~ msgid "About Calculator"
+#~ msgstr "על אודות המחשבון"

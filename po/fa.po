@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:38+0000\n"
+"PO-Revision-Date: 2024-09-25 10:14+0000\n"
+"Last-Translator: Hossein <hossein17@duck.com>\n"
+"Language-Team: Persian <https://l10n.phyre-os.io/projects/calculator/"
+"calculator/fa/>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2016-12-31 04:44+0000\n"
+
+#: src/MainWindow.vala:85
+msgid "Calculator"
+msgstr "ماشین‌حساب"
+
+#: src/MainWindow.vala:95 src/MainWindow.vala:782
+msgid "Show extended functionality"
+msgstr "نمایش قابلیت های بیشتر"
+
+#: src/MainWindow.vala:101 src/HistoryDialog.vala:40
+msgid "History"
+msgstr "پیشینه"
+
+#: src/MainWindow.vala:123
+msgid "Calculate Result"
+msgstr "نتیجه محاسبه"
+
+#: src/MainWindow.vala:130
+msgid "Insert last result"
+msgstr "افزودن آخرین نتیجه"
+
+#: src/MainWindow.vala:134
+msgid "Backspace"
+msgstr "Backspace"
+
+#: src/MainWindow.vala:142
+msgid "Clear entry"
+msgstr "پاک کردن ورودی"
+
+#: src/MainWindow.vala:149
+msgid "Add"
+msgstr "افزودن"
+
+#: src/MainWindow.vala:156
+msgid "Subtract"
+msgstr "تفریق"
+
+#: src/MainWindow.vala:163
+msgid "Multiply"
+msgstr "ضرب"
+
+#: src/MainWindow.vala:170
+msgid "Divide"
+msgstr "تقسیم"
+
+#: src/MainWindow.vala:187
+msgid "Percentage"
+msgstr "درصد"
+
+#: src/MainWindow.vala:269
+msgid "Set memory value"
+msgstr "مقدار حافظه را تنظیم کنید"
+
+#: src/MainWindow.vala:274
+msgid "Recall value from memory"
+msgstr "مقدار را از حافظه به بیاورید"
+
+#: src/MainWindow.vala:278
+msgid "Add to stored value"
+msgstr "به ارزش ذخیره شده اضافه کنید"
+
+#: src/MainWindow.vala:282
+msgid "Subtract from stored value"
+msgstr "از مقدار ذخیره شده کم کنید"
+
+#: src/MainWindow.vala:287
+msgid "Clear memory"
+msgstr "پاک کردن حافظه"
+
+#: src/MainWindow.vala:292
+msgid "Grand Total"
+msgstr "جمع کل"
+
+#: src/MainWindow.vala:298
+msgid "Start Group"
+msgstr "گروه شروع"
+
+#: src/MainWindow.vala:304
+msgid "End Group"
+msgstr "گروه پایان"
+
+#: src/MainWindow.vala:310
+msgid "Exponent"
+msgstr "توان"
+
+#: src/MainWindow.vala:316
+msgid "Root"
+msgstr "ریشه"
+
+#: src/MainWindow.vala:322
+msgid "Sine"
+msgstr "سینوس"
+
+#: src/MainWindow.vala:328
+msgid "Hyperbolic Sine"
+msgstr "سینوس هایپربولیک"
+
+#: src/MainWindow.vala:334
+msgid "Cosine"
+msgstr "کوسینوس"
+
+#: src/MainWindow.vala:340
+msgid "Hyperbolic Cosine"
+msgstr "کسینوس هایپربولیک"
+
+#: src/MainWindow.vala:346
+msgid "Tangent"
+msgstr "تانژانت"
+
+#: src/MainWindow.vala:352
+msgid "Hyperbolic Tangent"
+msgstr "تانژانت هایپربولیک"
+
+#: src/MainWindow.vala:358
+msgid "Pi"
+msgstr "Pi"
+
+#: src/MainWindow.vala:364
+msgid "Euler's Number"
+msgstr "شماره اویلر"
+
+#: src/MainWindow.vala:370
+msgid "Logarithm Base 10"
+msgstr "لگاریتم بر پایه 10"
+
+#: src/MainWindow.vala:376
+msgid "Natural Logarithm"
+msgstr "لوگاریتم طبیعی"
+
+#: src/MainWindow.vala:382
+msgid "Inverse Sine"
+msgstr "سینوس معکوس"
+
+#: src/MainWindow.vala:388
+msgid "Inverse Cosine"
+msgstr "کسینوس معکوس"
+
+#: src/MainWindow.vala:394
+msgid "Inverse Tangent"
+msgstr "تانژانت معکوس"
+
+#: src/MainWindow.vala:398
+msgid "Reciprocal"
+msgstr "متقابل"
+
+#: src/MainWindow.vala:777
+msgid "Hide extended functionality"
+msgstr "پنهان کردن قابلیت های اضافی"
+
+#: src/HistoryDialog.vala:43
+msgid "Insert a previous expression or result into the current calculation."
+msgstr "یک عبارت یا نتیجه قبلی را در محاسبه جاری وارد کنید."
+
+#: src/HistoryDialog.vala:81
+msgid "Value to insert:"
+msgstr "مقدار برای اضافه شدن:"
+
+#: src/HistoryDialog.vala:86
+msgid "Result"
+msgstr "نتیجه"
+
+#: src/HistoryDialog.vala:90
+msgid "Expression"
+msgstr "عبارت"
+
+#. Use a custom response code for "Clear History" action
+#: src/HistoryDialog.vala:113
+msgid "Clear History"
+msgstr "پاک کردن تاریخچه"
+
+#: src/HistoryDialog.vala:116
+msgid "Close"
+msgstr "بستن"
+
+#: src/HistoryDialog.vala:118
+msgid "Insert"
+msgstr "وارد کردن"
+
+#: src/Core/Scanner.vala:68
+#, c-format
+msgid "'%s' is invalid."
+msgstr "'%s' غیر قابل قبول است."
+
+#: src/Core/Scanner.vala:116
+msgid "Mismatched parenthesis."
+msgstr "پرانتز مطابقت ندارد."
+
+#. If no rule matches the character at pos, throw an error.
+#: src/Core/Scanner.vala:169
+#, c-format
+msgid "'%s' is unknown."
+msgstr "'%s' ناشناخته است."
+
+#~ msgid "translator-credits"
+#~ msgstr ""
+#~ "Launchpad Contributions:\n"
+#~ "  Hessam Shafiei Moqaddam https://launchpad.net/~hessam\n"
+#~ "  Maxwell Barvian https://launchpad.net/~mbarvian-deactivatedaccount\n"
+#~ "  Mohammad Hossein Mojatehdi https://launchpad.net/~mhm5000\n"
+#~ "  awat https://launchpad.net/~awat"

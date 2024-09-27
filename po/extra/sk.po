@@ -1,0 +1,151 @@
+# Slovak translation for pantheon-calculator
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the pantheon-calculator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pantheon-calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:38+0000\n"
+"PO-Revision-Date: 2024-08-19 16:36+0000\n"
+"Last-Translator: JohnDumpling <john_dumpling@protonmail.com>\n"
+"Language-Team: Slovak <https://l10n.phyre-os.io/projects/calculator/extra/"
+"sk/>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2016-12-31 04:44+0000\n"
+
+#: data/calculator.metainfo.xml.in:10
+#: data/io.elementary.calculator.desktop.in:6
+msgid "Calculator"
+msgstr "Kalkulačka"
+
+#: data/calculator.metainfo.xml.in:11
+#: data/io.elementary.calculator.desktop.in:7
+msgid "Solve simple equations"
+msgstr "Riešte jednoduché výpočty"
+
+#: data/calculator.metainfo.xml.in:13
+msgid ""
+"A simple calculator for everyday use. It supports basic and some scientific "
+"calculations including trigonometry functions, sin, cos, and tan."
+msgstr ""
+"Jednoduchá kalkulačka pre každodenné použitie. Podporuje základné a niektoré "
+"vedecké výpočty, vrátane goniometrických funkcií sin, cos a tan."
+
+#: data/calculator.metainfo.xml.in:62 data/calculator.metainfo.xml.in:71
+#: data/calculator.metainfo.xml.in:84 data/calculator.metainfo.xml.in:99
+#: data/calculator.metainfo.xml.in:110
+msgid "Minor updates:"
+msgstr "Drobné aktualizácie:"
+
+#: data/calculator.metainfo.xml.in:64 data/calculator.metainfo.xml.in:74
+#: data/calculator.metainfo.xml.in:88 data/calculator.metainfo.xml.in:103
+#: data/calculator.metainfo.xml.in:113
+msgid "Updated translations"
+msgstr "Aktualizované preklady"
+
+#: data/calculator.metainfo.xml.in:73
+msgid "Branding color changed to Mint 500"
+msgstr ""
+
+#: data/calculator.metainfo.xml.in:86
+msgid "Always use elementary styles and icons, even on other platforms"
+msgstr "Vždy použiť štýly a ikonky elementary, aj na iných platformách"
+
+#: data/calculator.metainfo.xml.in:87
+msgid "Always paste text with the keyboard shortcut \"Ctrl + V\""
+msgstr "Vždy prilepiť text klávesovou skratkou „Ctrl + V“"
+
+#: data/calculator.metainfo.xml.in:101
+msgid "Redesigned app icon"
+msgstr "Aktualizovaná ikonka aplikácie"
+
+#: data/calculator.metainfo.xml.in:102
+msgid "Flat titlebar"
+msgstr "Plochá horná lišta okna"
+
+#: data/calculator.metainfo.xml.in:112
+msgid "Update for OS 7 and Gtk 4"
+msgstr "Aktualizované pre OS 7 a Gtk 4"
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/io.elementary.calculator.desktop.in:10
+msgid "Calculation;Mathematics;Arithmetic;Scientific;"
+msgstr "Výpočty;Matematika;Aritmetika;Vedecká;"
+
+#: data/io.elementary.calculator.desktop.in:21
+msgid "New Window"
+msgstr "Nové okno"
+
+#~ msgid "elementary, Inc."
+#~ msgstr "elementary, Inc."
+
+#~ msgid "Update to elementary 6.1 runtime"
+#~ msgstr "Aktualizácia elementary runtime na verziu 6.1"
+
+#~ msgid "Showing advanced controls only affects the focused window"
+#~ msgstr "Zobrazenie pokročilých ovládacích prvkov ovplyvní iba aktívne okno"
+
+#~ msgid "Focus the main text entry on startup"
+#~ msgstr "Pri štarte označiť hlavné textové pole"
+
+#~ msgid "Show the correct window title in Multitasking View"
+#~ msgstr "Zobrazovať správny názov okna v Zobrazení okien"
+
+#~ msgid "Added 'New Window' Desktop Action"
+#~ msgstr "Pridaná nová akcia pracovnej plochy ‚Nové okno‘"
+
+#~ msgid "New features:"
+#~ msgstr "Nové funkcie:"
+
+#~ msgid "Add a \"Clear History\" button to the history dialog"
+#~ msgstr "Pridané tlačidlo „Vymazať históriu“ do dialógu histórie"
+
+#~ msgid "Fixed an issue with multiple windows"
+#~ msgstr "Opravený problém s viacerými oknami"
+
+#~ msgid "More informative copy in history dialog"
+#~ msgstr "Viac informatívna kópia v dialógu histórie"
+
+#~ msgid "Add log and inverse trigonometric functions"
+#~ msgstr "Pridaný logaritmus a inverzné goniometrické funkcie"
+
+#~ msgid "Other updates:"
+#~ msgstr "Iné aktualizácie:"
+
+#~ msgid "Fix an issue with negative decimals without leading digits"
+#~ msgstr ""
+#~ "Opravený problém s negatívnymi desatinnými číslami bez vedúcich číslic"
+
+#~ msgid "More efficient state saving"
+#~ msgstr "Efektívnejšie ukladanie stavu"
+
+#~ msgid "Use slim titlebar"
+#~ msgstr "Použitá tenšia lišta okna"
+
+#~ msgid "Fix inserting multi-byte characters"
+#~ msgstr "Opravené vkladanie viacbajtových znakov"
+
+#~ msgid "Fix missing icon for Ukrainian"
+#~ msgstr "Opravená chýbajúca ikonka pre ukrajinčinu"
+
+#~ msgid "Animate Infobar when hiding and showing"
+#~ msgstr "Animácia pre zobrazenie a skrytie infopanela"
+
+#~ msgid "Fix selection replace"
+#~ msgstr "Opravené nahradenie výberu"
+
+#~ msgid "Improved decimal separator localization"
+#~ msgstr "Vylepšená lokalizácia desatinného oddeľovača"
+
+#~ msgid "accessories-calculator"
+#~ msgstr "accessories-calculator"
+
+#~ msgid "About Calculator"
+#~ msgstr "O Kalkulačke"

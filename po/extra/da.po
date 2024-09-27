@@ -1,0 +1,119 @@
+# Danish translation for pantheon-calculator
+# Copyright (c) 2017 Rosetta Contributors and Canonical Ltd 2017
+# This file is distributed under the same license as the pantheon-calculator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pantheon-calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:38+0000\n"
+"PO-Revision-Date: 2020-05-26 14:11+0000\n"
+"Last-Translator: Rantyrant <diseasemonger@gmail.com>\n"
+"Language-Team: Danish <https://l10n.phyre-os.io/projects/calculator/extra/"
+"da/>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+"X-Launchpad-Export-Date: 2017-03-19 06:26+0000\n"
+
+#: data/calculator.metainfo.xml.in:10
+#: data/io.elementary.calculator.desktop.in:6
+msgid "Calculator"
+msgstr "Lommeregner"
+
+#: data/calculator.metainfo.xml.in:11
+#: data/io.elementary.calculator.desktop.in:7
+msgid "Solve simple equations"
+msgstr "Løs enkle ligninger"
+
+#: data/calculator.metainfo.xml.in:13
+msgid ""
+"A simple calculator for everyday use. It supports basic and some scientific "
+"calculations including trigonometry functions, sin, cos, and tan."
+msgstr ""
+"En simpel lommeregner til hverdagsbrug. Den understøtter grundlæggende og "
+"nogle videnskabelige udregninger inklusive trigonometri-funktioner, sin, "
+"cos, og tan."
+
+#: data/calculator.metainfo.xml.in:62 data/calculator.metainfo.xml.in:71
+#: data/calculator.metainfo.xml.in:84 data/calculator.metainfo.xml.in:99
+#: data/calculator.metainfo.xml.in:110
+msgid "Minor updates:"
+msgstr "Mindre opdateringer:"
+
+#: data/calculator.metainfo.xml.in:64 data/calculator.metainfo.xml.in:74
+#: data/calculator.metainfo.xml.in:88 data/calculator.metainfo.xml.in:103
+#: data/calculator.metainfo.xml.in:113
+msgid "Updated translations"
+msgstr "Opdaterede oversættelser"
+
+#: data/calculator.metainfo.xml.in:73
+msgid "Branding color changed to Mint 500"
+msgstr ""
+
+#: data/calculator.metainfo.xml.in:86
+msgid "Always use elementary styles and icons, even on other platforms"
+msgstr ""
+
+#: data/calculator.metainfo.xml.in:87
+msgid "Always paste text with the keyboard shortcut \"Ctrl + V\""
+msgstr ""
+
+#: data/calculator.metainfo.xml.in:101
+msgid "Redesigned app icon"
+msgstr ""
+
+#: data/calculator.metainfo.xml.in:102
+#, fuzzy
+#| msgid "Use slim titlebar"
+msgid "Flat titlebar"
+msgstr "Brug tynd titelbar"
+
+#: data/calculator.metainfo.xml.in:112
+msgid "Update for OS 7 and Gtk 4"
+msgstr ""
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/io.elementary.calculator.desktop.in:10
+msgid "Calculation;Mathematics;Arithmetic;Scientific;"
+msgstr "Udregning;Lommeregner;Matematik;Videnskab;"
+
+#: data/io.elementary.calculator.desktop.in:21
+msgid "New Window"
+msgstr ""
+
+#~ msgid "elementary, Inc."
+#~ msgstr "elementary, Inc."
+
+#, fuzzy
+#~| msgid "Minor updates:"
+#~ msgid "Other updates:"
+#~ msgstr "Mindre opdateringer:"
+
+#~ msgid "Use slim titlebar"
+#~ msgstr "Brug tynd titelbar"
+
+#~ msgid "Fix inserting multi-byte characters"
+#~ msgstr "Fix indsættelse af multi-byte karakterer"
+
+#~ msgid "Fix missing icon for Ukrainian"
+#~ msgstr "Fix manglende ikon for ukrainsk"
+
+#~ msgid "Animate Infobar when hiding and showing"
+#~ msgstr "Animer Infobar, når der skjules og vises"
+
+#~ msgid "Fix selection replace"
+#~ msgstr "Fix valg udskift"
+
+#~ msgid "Improved decimal separator localization"
+#~ msgstr "Forbedret decimalisator lokalisering"
+
+#~ msgid "accessories-calculator"
+#~ msgstr "tilbehør-regnemaskine"
+
+#~ msgid "About Calculator"
+#~ msgstr "Om lommeregner"

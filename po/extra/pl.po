@@ -1,0 +1,158 @@
+# Polish translation for pantheon-calculator
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the pantheon-calculator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pantheon-calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:38+0000\n"
+"PO-Revision-Date: 2024-09-05 16:46+0000\n"
+"Last-Translator: Marcin Serwin <marcin@serwin.dev>\n"
+"Language-Team: Polish <https://l10n.phyre-os.io/projects/calculator/extra/"
+"pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2016-12-31 04:44+0000\n"
+
+#: data/calculator.metainfo.xml.in:10
+#: data/io.elementary.calculator.desktop.in:6
+msgid "Calculator"
+msgstr "Kalkulator"
+
+#: data/calculator.metainfo.xml.in:11
+#: data/io.elementary.calculator.desktop.in:7
+msgid "Solve simple equations"
+msgstr "Rozwiązuj proste równania"
+
+#: data/calculator.metainfo.xml.in:13
+msgid ""
+"A simple calculator for everyday use. It supports basic and some scientific "
+"calculations including trigonometry functions, sin, cos, and tan."
+msgstr ""
+"Prosty kalkulator do codziennego użytku. Zawiera podstawowe obliczenia oraz "
+"kilka funkcji naukowych, w tym trygonometryczne: sinus, cosinus oraz tangens."
+
+#: data/calculator.metainfo.xml.in:62 data/calculator.metainfo.xml.in:71
+#: data/calculator.metainfo.xml.in:84 data/calculator.metainfo.xml.in:99
+#: data/calculator.metainfo.xml.in:110
+msgid "Minor updates:"
+msgstr "Drobne poprawki:"
+
+#: data/calculator.metainfo.xml.in:64 data/calculator.metainfo.xml.in:74
+#: data/calculator.metainfo.xml.in:88 data/calculator.metainfo.xml.in:103
+#: data/calculator.metainfo.xml.in:113
+msgid "Updated translations"
+msgstr "Zaktualizowano tłumaczenia"
+
+#: data/calculator.metainfo.xml.in:73
+msgid "Branding color changed to Mint 500"
+msgstr "Markowy kolor zmieniony na Mięta 500"
+
+#: data/calculator.metainfo.xml.in:86
+msgid "Always use elementary styles and icons, even on other platforms"
+msgstr ""
+"Zawsze używane są style i ikony elementary, nawet na innych platformach"
+
+#: data/calculator.metainfo.xml.in:87
+msgid "Always paste text with the keyboard shortcut \"Ctrl + V\""
+msgstr "Skrót klawiszowy „Ctrl + V” zawsze wkleja teraz tekst"
+
+#: data/calculator.metainfo.xml.in:101
+msgid "Redesigned app icon"
+msgstr "Przeprojektowane ikonę aplikacji"
+
+#: data/calculator.metainfo.xml.in:102
+msgid "Flat titlebar"
+msgstr "Płaski pasek tytułu"
+
+#: data/calculator.metainfo.xml.in:112
+msgid "Update for OS 7 and Gtk 4"
+msgstr "Aktualizacja do OS 7 i Gtk 4"
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/io.elementary.calculator.desktop.in:10
+msgid "Calculation;Mathematics;Arithmetic;Scientific;"
+msgstr "Kalkulator;Matematyka;Arytmetyka;Naukowy;"
+
+#: data/io.elementary.calculator.desktop.in:21
+msgid "New Window"
+msgstr "Nowe okno"
+
+#~ msgid "elementary, Inc."
+#~ msgstr "elementary, Inc."
+
+#~ msgid "Update to elementary 6.1 runtime"
+#~ msgstr "Zaktualizowano do wersji elementary 6.1"
+
+#~ msgid "Showing advanced controls only affects the focused window"
+#~ msgstr ""
+#~ "Pokazywanie zaawansowanych kontrolek wpływa teraz tylko na skupione okno"
+
+#~ msgid "Focus the main text entry on startup"
+#~ msgstr ""
+#~ "Przy starcie skupienie ustawione jest teraz na głównym wejściu tekstowym"
+
+#~ msgid "Show the correct window title in Multitasking View"
+#~ msgstr ""
+#~ "Naprawiono pokazywanie poprawnego tytułu okienko w widoku wielozadaniowym"
+
+#~ msgid "Added 'New Window' Desktop Action"
+#~ msgstr "Dodano akcję pulpitu 'Nowe okno'"
+
+#~ msgid "New features:"
+#~ msgstr "Nowe funkcje:"
+
+#~ msgid "Add a \"Clear History\" button to the history dialog"
+#~ msgstr "Dodaj przycisk \"Wyczyść historię\" do okna dialogowego historii"
+
+#~ msgid "Fixed an issue with multiple windows"
+#~ msgstr "Naprawiono błąd z kilkoma oknami"
+
+#~ msgid "More informative copy in history dialog"
+#~ msgstr "Bardziej informatywna kopia w oknie dialogowym historii"
+
+#~ msgid "Add log and inverse trigonometric functions"
+#~ msgstr "Dodaj funkcje logarytmiczne i odwrotne funkcje trygonometryczne"
+
+#~ msgid "Other updates:"
+#~ msgstr "Inne aktualizacje:"
+
+#~ msgid "Fix an issue with negative decimals without leading digits"
+#~ msgstr "Napraw problem ujemnych liczb dziesiętnych bez cyfr początkowych"
+
+#~ msgid "More efficient state saving"
+#~ msgstr "Bardziej efektywne zapisanie stanu"
+
+#~ msgid "Use slim titlebar"
+#~ msgstr "Użyj smukłego paska tytułu"
+
+#~ msgid "Fix inserting multi-byte characters"
+#~ msgstr "Naprawiono wstawianie wielobajtowych znaków"
+
+#~ msgid "Fix missing icon for Ukrainian"
+#~ msgstr "Naprawiono brakującą ikonę dla języka ukraińskiego"
+
+#~ msgid "Animate Infobar when hiding and showing"
+#~ msgstr "Animuj pasek informacyjny podczas chowania lub wyświetlania"
+
+#~ msgid "Fix selection replace"
+#~ msgstr "Napraw zamianę zaznaczenia"
+
+#~ msgid "Improved decimal separator localization"
+#~ msgstr "Zmieniono lokalizację separatora liczb dziesiętnych"
+
+#~ msgid "io.elementary.calculator"
+#~ msgstr "io.elementary.calculator"
+
+#~ msgid "accessories-calculator"
+#~ msgstr "accessories-calculator"
+
+#~ msgid "About Calculator"
+#~ msgstr "O kalkulatorze"

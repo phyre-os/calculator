@@ -1,0 +1,141 @@
+# Romanian translation for pantheon-calculator
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the pantheon-calculator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pantheon-calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:38+0000\n"
+"PO-Revision-Date: 2021-09-04 00:28+0000\n"
+"Last-Translator: Silviu Popescu <teodorspopescu@gmail.com>\n"
+"Language-Team: Romanian <https://l10n.phyre-os.io/projects/calculator/"
+"extra/ro/>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Weblate 4.4.2\n"
+"X-Launchpad-Export-Date: 2016-12-31 04:44+0000\n"
+
+#: data/calculator.metainfo.xml.in:10
+#: data/io.elementary.calculator.desktop.in:6
+msgid "Calculator"
+msgstr "Calculator"
+
+#: data/calculator.metainfo.xml.in:11
+#: data/io.elementary.calculator.desktop.in:7
+msgid "Solve simple equations"
+msgstr "Rezolvă ecuații simple"
+
+#: data/calculator.metainfo.xml.in:13
+msgid ""
+"A simple calculator for everyday use. It supports basic and some scientific "
+"calculations including trigonometry functions, sin, cos, and tan."
+msgstr ""
+"Un calculator simplu pentru utilizare zilnică. Suportă calcule de bază și "
+"câteva calcule științifice cum ar fi funcții de trigonometrie sin, cos și "
+"tan."
+
+#: data/calculator.metainfo.xml.in:62 data/calculator.metainfo.xml.in:71
+#: data/calculator.metainfo.xml.in:84 data/calculator.metainfo.xml.in:99
+#: data/calculator.metainfo.xml.in:110
+msgid "Minor updates:"
+msgstr "Mici actualizări:"
+
+#: data/calculator.metainfo.xml.in:64 data/calculator.metainfo.xml.in:74
+#: data/calculator.metainfo.xml.in:88 data/calculator.metainfo.xml.in:103
+#: data/calculator.metainfo.xml.in:113
+msgid "Updated translations"
+msgstr "Traduceri actualizate"
+
+#: data/calculator.metainfo.xml.in:73
+msgid "Branding color changed to Mint 500"
+msgstr ""
+
+#: data/calculator.metainfo.xml.in:86
+msgid "Always use elementary styles and icons, even on other platforms"
+msgstr ""
+
+#: data/calculator.metainfo.xml.in:87
+msgid "Always paste text with the keyboard shortcut \"Ctrl + V\""
+msgstr ""
+
+#: data/calculator.metainfo.xml.in:101
+msgid "Redesigned app icon"
+msgstr ""
+
+#: data/calculator.metainfo.xml.in:102
+#, fuzzy
+#| msgid "Use slim titlebar"
+msgid "Flat titlebar"
+msgstr "Folosește bara subțire pentru titlu"
+
+#: data/calculator.metainfo.xml.in:112
+msgid "Update for OS 7 and Gtk 4"
+msgstr ""
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/io.elementary.calculator.desktop.in:10
+msgid "Calculation;Mathematics;Arithmetic;Scientific;"
+msgstr "Calculare;Matematică;Aritmetic;Științific;"
+
+#: data/io.elementary.calculator.desktop.in:21
+msgid "New Window"
+msgstr ""
+
+#~ msgid "elementary, Inc."
+#~ msgstr "elementary, Inc."
+
+#~ msgid "New features:"
+#~ msgstr "Noi funcționalități:"
+
+#~ msgid "Add a \"Clear History\" button to the history dialog"
+#~ msgstr "Adaugă un buton \"Curăță istoricul\" în căsuța cu istoric"
+
+#~ msgid "Fixed an issue with multiple windows"
+#~ msgstr "Reparat o problemă cu multiple ferestre"
+
+#~ msgid "More informative copy in history dialog"
+#~ msgstr "Copie/copiere mult mai informativă în căsuța cu istoric"
+
+#~ msgid "Add log and inverse trigonometric functions"
+#~ msgstr "Adaugă funcții logaritmice și trigonometrice inverse"
+
+#~ msgid "Other updates:"
+#~ msgstr "Alte actualizări:"
+
+#~ msgid "Fix an issue with negative decimals without leading digits"
+#~ msgstr "Reparat probleme cu zecimale negative fără cifre de început"
+
+#~ msgid "More efficient state saving"
+#~ msgstr "Salvare a stării mai eficientă"
+
+#~ msgid "Use slim titlebar"
+#~ msgstr "Folosește bara subțire pentru titlu"
+
+#~ msgid "Fix inserting multi-byte characters"
+#~ msgstr "Repară inserarea de caractere multi-byte (multi-octet)"
+
+#~ msgid "Fix missing icon for Ukrainian"
+#~ msgstr "Repară iconița lipsă pentru limba ucraineană"
+
+#~ msgid "Animate Infobar when hiding and showing"
+#~ msgstr "Animează bara de informații când se ascunde și când se dezvăluie"
+
+#~ msgid "Fix selection replace"
+#~ msgstr "Repară înlocuirea textului selectat"
+
+#~ msgid "Improved decimal separator localization"
+#~ msgstr ""
+#~ "Imbunătățit conversia pentru separatorul zecimal în funcție de locația "
+#~ "geografică"
+
+#~ msgid "accessories-calculator"
+#~ msgstr "accesorii-calculator"
+
+#~ msgid "About Calculator"
+#~ msgstr "Despre Calculator"

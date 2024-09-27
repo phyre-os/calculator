@@ -1,0 +1,156 @@
+# Catalan translation for pantheon-calculator
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the pantheon-calculator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pantheon-calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:38+0000\n"
+"PO-Revision-Date: 2024-09-02 20:05+0000\n"
+"Last-Translator: David M <rbndavid@gmail.com>\n"
+"Language-Team: Catalan <https://l10n.phyre-os.io/projects/calculator/extra/"
+"ca/>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2016-12-31 04:44+0000\n"
+
+#: data/calculator.metainfo.xml.in:10
+#: data/io.elementary.calculator.desktop.in:6
+msgid "Calculator"
+msgstr "Calculadora"
+
+#: data/calculator.metainfo.xml.in:11
+#: data/io.elementary.calculator.desktop.in:7
+msgid "Solve simple equations"
+msgstr "Resoleu equacions simples"
+
+#: data/calculator.metainfo.xml.in:13
+msgid ""
+"A simple calculator for everyday use. It supports basic and some scientific "
+"calculations including trigonometry functions, sin, cos, and tan."
+msgstr ""
+"Una calculadora senzilla per a l'ús diari. És compatible amb càlculs bàsics "
+"i alguns càlculs científics que inclouen funcions trigonomètriques, sinus, "
+"cosinus, i tangents."
+
+#: data/calculator.metainfo.xml.in:62 data/calculator.metainfo.xml.in:71
+#: data/calculator.metainfo.xml.in:84 data/calculator.metainfo.xml.in:99
+#: data/calculator.metainfo.xml.in:110
+msgid "Minor updates:"
+msgstr "Actualitzacions menors:"
+
+#: data/calculator.metainfo.xml.in:64 data/calculator.metainfo.xml.in:74
+#: data/calculator.metainfo.xml.in:88 data/calculator.metainfo.xml.in:103
+#: data/calculator.metainfo.xml.in:113
+msgid "Updated translations"
+msgstr "Traduccions actualitzades"
+
+#: data/calculator.metainfo.xml.in:73
+msgid "Branding color changed to Mint 500"
+msgstr "El color de la marca ha canviat a Mint 500."
+
+#: data/calculator.metainfo.xml.in:86
+msgid "Always use elementary styles and icons, even on other platforms"
+msgstr ""
+"Usa sempre estils i icones d'elementary, fins i tot en altres plataformes"
+
+#: data/calculator.metainfo.xml.in:87
+msgid "Always paste text with the keyboard shortcut \"Ctrl + V\""
+msgstr "Enganxeu sempre el text amb la drecera de teclat \"Ctrl + V\""
+
+#: data/calculator.metainfo.xml.in:101
+msgid "Redesigned app icon"
+msgstr "Icona redissenyada"
+
+#: data/calculator.metainfo.xml.in:102
+msgid "Flat titlebar"
+msgstr "Barra de títol prima"
+
+#: data/calculator.metainfo.xml.in:112
+msgid "Update for OS 7 and Gtk 4"
+msgstr "Actualització per al SO 7 i Gtk 4"
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/io.elementary.calculator.desktop.in:10
+msgid "Calculation;Mathematics;Arithmetic;Scientific;"
+msgstr "Càlcul;Matemàtiques;Aritmètica;Científic;"
+
+#: data/io.elementary.calculator.desktop.in:21
+msgid "New Window"
+msgstr "Finestra nova"
+
+#~ msgid "elementary, Inc."
+#~ msgstr "elementary, Inc."
+
+#~ msgid "Update to elementary 6.1 runtime"
+#~ msgstr "Actualització de l'entorn d'execució de l'elementary a 6.1"
+
+#~ msgid "Showing advanced controls only affects the focused window"
+#~ msgstr "Mostrar controls avançats només afecta la finestra focalitzada."
+
+#~ msgid "Focus the main text entry on startup"
+#~ msgstr "Focus a l'entrada principal de text a l'inici"
+
+#~ msgid "Show the correct window title in Multitasking View"
+#~ msgstr ""
+#~ "Es mostra el títol correcte de la finestra a la vista de multitasca."
+
+#~ msgid "Added 'New Window' Desktop Action"
+#~ msgstr "S'ha afegit l'acció d'escriptori Finestra nova."
+
+#~ msgid "New features:"
+#~ msgstr "Funcions noves:"
+
+#~ msgid "Add a \"Clear History\" button to the history dialog"
+#~ msgstr "Addicció del botó de netejar l'historial al diàleg de l'històric"
+
+#~ msgid "Fixed an issue with multiple windows"
+#~ msgstr "Correcció d'un problema amb finestres múltiples"
+
+#~ msgid "More informative copy in history dialog"
+#~ msgstr "Còpia més informativa al diàleg de l'historial"
+
+#~ msgid "Add log and inverse trigonometric functions"
+#~ msgstr "Addició de funcions trigonomètriques inverses i logarítmiques"
+
+#~ msgid "Other updates:"
+#~ msgstr "Altres actualitzacions:"
+
+#~ msgid "Fix an issue with negative decimals without leading digits"
+#~ msgstr "Solució d'un problema amb decimals negatius sense dígits davant"
+
+#~ msgid "More efficient state saving"
+#~ msgstr "Estat de desament més eficient"
+
+#~ msgid "Use slim titlebar"
+#~ msgstr "S'usa una barra de títol prima."
+
+#~ msgid "Fix inserting multi-byte characters"
+#~ msgstr "Correcció de la inserció de caràcters de diversos bytes"
+
+#~ msgid "Fix missing icon for Ukrainian"
+#~ msgstr "Correcció de la icona que falta a l'ucraïnès"
+
+#~ msgid "Animate Infobar when hiding and showing"
+#~ msgstr "Animació de la barra d'informació quan s'amaga i quan es mostra"
+
+#~ msgid "Fix selection replace"
+#~ msgstr "Correcció de la selecció del reemplaçament"
+
+#~ msgid "Improved decimal separator localization"
+#~ msgstr "Localització del separador decimal millorada"
+
+#~ msgid "io.elementary.calculator"
+#~ msgstr "io.elementary.calculator"
+
+#~ msgid "accessories-calculator"
+#~ msgstr "accessories-calculator"
+
+#~ msgid "About Calculator"
+#~ msgstr "Quant a la Calculadora"

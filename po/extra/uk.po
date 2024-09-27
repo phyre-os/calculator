@@ -1,0 +1,159 @@
+# Ukrainian translation for pantheon-calculator
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the pantheon-calculator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pantheon-calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:38+0000\n"
+"PO-Revision-Date: 2024-09-02 20:05+0000\n"
+"Last-Translator: Ihor Hordiichuk <igor_ck@outlook.com>\n"
+"Language-Team: Ukrainian <https://l10n.phyre-os.io/projects/calculator/"
+"extra/uk/>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.6.2\n"
+"X-Launchpad-Export-Date: 2016-12-31 04:44+0000\n"
+
+#: data/calculator.metainfo.xml.in:10
+#: data/io.elementary.calculator.desktop.in:6
+msgid "Calculator"
+msgstr "Калькулятор"
+
+#: data/calculator.metainfo.xml.in:11
+#: data/io.elementary.calculator.desktop.in:7
+msgid "Solve simple equations"
+msgstr "Розв'язуйте прості рівняння"
+
+#: data/calculator.metainfo.xml.in:13
+msgid ""
+"A simple calculator for everyday use. It supports basic and some scientific "
+"calculations including trigonometry functions, sin, cos, and tan."
+msgstr ""
+"Простий калькулятор для повсякденного вжитку. Підтримує базові та деякі "
+"інженерні обчислення, включно з тригонометричними функціями, синусом, "
+"косинусом і тангенсом."
+
+#: data/calculator.metainfo.xml.in:62 data/calculator.metainfo.xml.in:71
+#: data/calculator.metainfo.xml.in:84 data/calculator.metainfo.xml.in:99
+#: data/calculator.metainfo.xml.in:110
+msgid "Minor updates:"
+msgstr "Незначні оновлення:"
+
+#: data/calculator.metainfo.xml.in:64 data/calculator.metainfo.xml.in:74
+#: data/calculator.metainfo.xml.in:88 data/calculator.metainfo.xml.in:103
+#: data/calculator.metainfo.xml.in:113
+msgid "Updated translations"
+msgstr "Оновлення перекладів"
+
+#: data/calculator.metainfo.xml.in:73
+msgid "Branding color changed to Mint 500"
+msgstr "Колір брендингу змінено на Mint 500"
+
+#: data/calculator.metainfo.xml.in:86
+msgid "Always use elementary styles and icons, even on other platforms"
+msgstr ""
+"Завжди використовуються стилі та піктограми elementary, навіть на інших "
+"платформах"
+
+#: data/calculator.metainfo.xml.in:87
+msgid "Always paste text with the keyboard shortcut \"Ctrl + V\""
+msgstr "Текст завжди вставлятиметься комбінацією клавіш «Ctrl + V»"
+
+#: data/calculator.metainfo.xml.in:101
+msgid "Redesigned app icon"
+msgstr "Оновлена піктограма застосунку"
+
+#: data/calculator.metainfo.xml.in:102
+msgid "Flat titlebar"
+msgstr "Пласка панель заголовка"
+
+#: data/calculator.metainfo.xml.in:112
+msgid "Update for OS 7 and Gtk 4"
+msgstr "Оновлення для OS 7 і Gtk 4"
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/io.elementary.calculator.desktop.in:10
+msgid "Calculation;Mathematics;Arithmetic;Scientific;"
+msgstr "Обчислення;Математика;Арифметика;Науковий;"
+
+#: data/io.elementary.calculator.desktop.in:21
+msgid "New Window"
+msgstr "Нове вікно"
+
+#~ msgid "elementary, Inc."
+#~ msgstr "elementary, Inc."
+
+#~ msgid "Update to elementary 6.1 runtime"
+#~ msgstr "Оновлення середовища виконання elementary до версії 6.1"
+
+#~ msgid "Showing advanced controls only affects the focused window"
+#~ msgstr ""
+#~ "Додаткові елементи керування відкриваються лише у сфокусованому вікні"
+
+#~ msgid "Focus the main text entry on startup"
+#~ msgstr "Фокусування на основному текстовому полі під час запуску"
+
+#~ msgid "Show the correct window title in Multitasking View"
+#~ msgstr "Показ правильного заголовка вікна у багатозадачному режимі"
+
+#~ msgid "Added 'New Window' Desktop Action"
+#~ msgstr "Додано дію «Нове вікно»"
+
+#~ msgid "New features:"
+#~ msgstr "Нові функції:"
+
+#~ msgid "Add a \"Clear History\" button to the history dialog"
+#~ msgstr "Додано кнопку «Очистити історію» до вікна історії"
+
+#~ msgid "Fixed an issue with multiple windows"
+#~ msgstr "Виправлено проблему з кількома вікнами"
+
+#~ msgid "More informative copy in history dialog"
+#~ msgstr "Інформативніша копія в діалоговому вікні історії"
+
+#~ msgid "Add log and inverse trigonometric functions"
+#~ msgstr "Додано журнал та обернені тригонометричні функції"
+
+#~ msgid "Other updates:"
+#~ msgstr "Інші оновлення:"
+
+#~ msgid "Fix an issue with negative decimals without leading digits"
+#~ msgstr ""
+#~ "Виправлено проблему з від’ємними десятковими цифрами без початкових цифр"
+
+#~ msgid "More efficient state saving"
+#~ msgstr "Ефективніше стан збереження"
+
+#~ msgid "Use slim titlebar"
+#~ msgstr "Потоншено панель заголовка"
+
+#~ msgid "Fix inserting multi-byte characters"
+#~ msgstr "Виправлено вставляння багаторозрядних символів"
+
+#~ msgid "Fix missing icon for Ukrainian"
+#~ msgstr "Виправлено проблему відсутності піктограми для версії українською"
+
+#~ msgid "Animate Infobar when hiding and showing"
+#~ msgstr "Анімація приховування й показу інфопанелі"
+
+#~ msgid "Fix selection replace"
+#~ msgstr "Виправлено заміну виділення"
+
+#~ msgid "Improved decimal separator localization"
+#~ msgstr "Поліпшено локалізацію десяткового розділювача"
+
+#~ msgid "io.elementary.calculator"
+#~ msgstr "io.elementary.calculator"
+
+#~ msgid "accessories-calculator"
+#~ msgstr "accessories-calculator"
+
+#~ msgid "About Calculator"
+#~ msgstr "Про програму"

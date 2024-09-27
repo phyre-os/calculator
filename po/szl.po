@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:38+0000\n"
+"PO-Revision-Date: 2020-02-20 17:08+0000\n"
+"Last-Translator: gkkulik <g.kulik@o2.pl>\n"
+"Language-Team: Silesian <https://l10n.phyre-os.io/projects/calculator/"
+"calculator/szl/>\n"
+"Language: szl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+#: src/MainWindow.vala:85
+msgid "Calculator"
+msgstr "Kalkulatōr"
+
+#: src/MainWindow.vala:95 src/MainWindow.vala:782
+msgid "Show extended functionality"
+msgstr "Pokoż rozszyrzōne funkcyje"
+
+#: src/MainWindow.vala:101 src/HistoryDialog.vala:40
+msgid "History"
+msgstr "Historyjo"
+
+#: src/MainWindow.vala:123
+msgid "Calculate Result"
+msgstr "Porachuj wynik"
+
+#: src/MainWindow.vala:130
+#, fuzzy
+#| msgid "Add last result"
+msgid "Insert last result"
+msgstr "Przidej ôstatni wynik"
+
+#: src/MainWindow.vala:134
+msgid "Backspace"
+msgstr "Backspace"
+
+#: src/MainWindow.vala:142
+msgid "Clear entry"
+msgstr "Wysnoż wpis"
+
+#: src/MainWindow.vala:149
+msgid "Add"
+msgstr "Przidej"
+
+#: src/MainWindow.vala:156
+msgid "Subtract"
+msgstr "Ôdyjmij"
+
+#: src/MainWindow.vala:163
+msgid "Multiply"
+msgstr "Pōmnōż"
+
+#: src/MainWindow.vala:170
+msgid "Divide"
+msgstr "Podziel"
+
+#: src/MainWindow.vala:187
+msgid "Percentage"
+msgstr "Procynt"
+
+#: src/MainWindow.vala:269
+msgid "Set memory value"
+msgstr ""
+
+#: src/MainWindow.vala:274
+msgid "Recall value from memory"
+msgstr ""
+
+#: src/MainWindow.vala:278
+msgid "Add to stored value"
+msgstr ""
+
+#: src/MainWindow.vala:282
+msgid "Subtract from stored value"
+msgstr ""
+
+#: src/MainWindow.vala:287
+#, fuzzy
+#| msgid "Clear entry"
+msgid "Clear memory"
+msgstr "Wysnoż wpis"
+
+#: src/MainWindow.vala:292
+msgid "Grand Total"
+msgstr ""
+
+#: src/MainWindow.vala:298
+msgid "Start Group"
+msgstr "Poczōntkowo grupa"
+
+#: src/MainWindow.vala:304
+msgid "End Group"
+msgstr "Kōńcowo grupa"
+
+#: src/MainWindow.vala:310
+msgid "Exponent"
+msgstr "Wykłodnik"
+
+#: src/MainWindow.vala:316
+msgid "Root"
+msgstr "Pierwiastek"
+
+#: src/MainWindow.vala:322
+msgid "Sine"
+msgstr "Sinus"
+
+#: src/MainWindow.vala:328
+msgid "Hyperbolic Sine"
+msgstr "Sinus hiperboliczny"
+
+#: src/MainWindow.vala:334
+msgid "Cosine"
+msgstr "Cosinus"
+
+#: src/MainWindow.vala:340
+msgid "Hyperbolic Cosine"
+msgstr "Cosinus hiperboliczny"
+
+#: src/MainWindow.vala:346
+msgid "Tangent"
+msgstr "Tangyns"
+
+#: src/MainWindow.vala:352
+msgid "Hyperbolic Tangent"
+msgstr "Tangyns hiperboliczny"
+
+#: src/MainWindow.vala:358
+msgid "Pi"
+msgstr "Pi"
+
+#: src/MainWindow.vala:364
+msgid "Euler's Number"
+msgstr "Liczba Eulera"
+
+#: src/MainWindow.vala:370
+msgid "Logarithm Base 10"
+msgstr ""
+
+#: src/MainWindow.vala:376
+msgid "Natural Logarithm"
+msgstr ""
+
+#: src/MainWindow.vala:382
+msgid "Inverse Sine"
+msgstr ""
+
+#: src/MainWindow.vala:388
+#, fuzzy
+#| msgid "Cosine"
+msgid "Inverse Cosine"
+msgstr "Cosinus"
+
+#: src/MainWindow.vala:394
+#, fuzzy
+#| msgid "Tangent"
+msgid "Inverse Tangent"
+msgstr "Tangyns"
+
+#: src/MainWindow.vala:398
+msgid "Reciprocal"
+msgstr ""
+
+#: src/MainWindow.vala:777
+msgid "Hide extended functionality"
+msgstr "Skryj rozszyrzōne funkcyje"
+
+#: src/HistoryDialog.vala:43
+msgid "Insert a previous expression or result into the current calculation."
+msgstr ""
+
+#: src/HistoryDialog.vala:81
+#, fuzzy
+#| msgid "Value to add:"
+msgid "Value to insert:"
+msgstr "Werta do przidanio:"
+
+#: src/HistoryDialog.vala:86
+msgid "Result"
+msgstr "Wynik"
+
+#: src/HistoryDialog.vala:90
+msgid "Expression"
+msgstr "Wyrażynie"
+
+#. Use a custom response code for "Clear History" action
+#: src/HistoryDialog.vala:113
+#, fuzzy
+#| msgid "Clear entry"
+msgid "Clear History"
+msgstr "Wysnoż wpis"
+
+#: src/HistoryDialog.vala:116
+msgid "Close"
+msgstr "Zawrzij"
+
+#: src/HistoryDialog.vala:118
+msgid "Insert"
+msgstr ""
+
+#: src/Core/Scanner.vala:68
+#, c-format
+msgid "'%s' is invalid."
+msgstr "'%s' je niynoleżne."
+
+#: src/Core/Scanner.vala:116
+msgid "Mismatched parenthesis."
+msgstr "Nowiasy niy sōm zgodliwe."
+
+#. If no rule matches the character at pos, throw an error.
+#: src/Core/Scanner.vala:169
+#, c-format
+msgid "'%s' is unknown."
+msgstr "'%s' je niyznōme."

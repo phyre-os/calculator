@@ -1,0 +1,149 @@
+# Kurdish (Sorani) translation for pantheon-calculator
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the pantheon-calculator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pantheon-calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-01 10:38+0000\n"
+"PO-Revision-Date: 2022-03-31 22:10+0000\n"
+"Last-Translator: Aga Ismael <agaesmaeel@gmail.com>\n"
+"Language-Team: Kurdish (Central) <https://l10n.phyre-os.io/projects/"
+"calculator/extra/ckb/>\n"
+"Language: ckb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4.2\n"
+"X-Launchpad-Export-Date: 2016-12-31 04:44+0000\n"
+
+#: data/calculator.metainfo.xml.in:10
+#: data/io.elementary.calculator.desktop.in:6
+msgid "Calculator"
+msgstr "بژمێر"
+
+#: data/calculator.metainfo.xml.in:11
+#: data/io.elementary.calculator.desktop.in:7
+msgid "Solve simple equations"
+msgstr "شیکاکردنی هاوکێشە سادەکان"
+
+#: data/calculator.metainfo.xml.in:13
+msgid ""
+"A simple calculator for everyday use. It supports basic and some scientific "
+"calculations including trigonometry functions, sin, cos, and tan."
+msgstr ""
+"بژمێرێکی سادە بۆ کاوروباری هەمووان. ئەم بژمێرە شیکاری هاوکێشە سادەکان و "
+"هەندێک هاوکێشەی زانستی وەکو ساین، کۆساین، و تان لەخۆ دەگرێت."
+
+#: data/calculator.metainfo.xml.in:62 data/calculator.metainfo.xml.in:71
+#: data/calculator.metainfo.xml.in:84 data/calculator.metainfo.xml.in:99
+#: data/calculator.metainfo.xml.in:110
+msgid "Minor updates:"
+msgstr "وردە نوێکاری:"
+
+#: data/calculator.metainfo.xml.in:64 data/calculator.metainfo.xml.in:74
+#: data/calculator.metainfo.xml.in:88 data/calculator.metainfo.xml.in:103
+#: data/calculator.metainfo.xml.in:113
+msgid "Updated translations"
+msgstr "وەرگێڕدراوە نوێکان"
+
+#: data/calculator.metainfo.xml.in:73
+msgid "Branding color changed to Mint 500"
+msgstr ""
+
+#: data/calculator.metainfo.xml.in:86
+msgid "Always use elementary styles and icons, even on other platforms"
+msgstr ""
+
+#: data/calculator.metainfo.xml.in:87
+msgid "Always paste text with the keyboard shortcut \"Ctrl + V\""
+msgstr ""
+
+#: data/calculator.metainfo.xml.in:101
+msgid "Redesigned app icon"
+msgstr ""
+
+#: data/calculator.metainfo.xml.in:102
+#, fuzzy
+#| msgid "Use slim titlebar"
+msgid "Flat titlebar"
+msgstr "بەکارهێنانی تایتڵباڕێکی باریک"
+
+#: data/calculator.metainfo.xml.in:112
+msgid "Update for OS 7 and Gtk 4"
+msgstr ""
+
+#. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
+#: data/io.elementary.calculator.desktop.in:10
+msgid "Calculation;Mathematics;Arithmetic;Scientific;"
+msgstr "ژماردن; بیرکاری; ژمێرکاری; زانستی;"
+
+#: data/io.elementary.calculator.desktop.in:21
+msgid "New Window"
+msgstr "پەنجەرەی تازە"
+
+#~ msgid "elementary, Inc."
+#~ msgstr "کۆمپانیای هاوپشکی ئێلێمەنتەری."
+
+#~ msgid "Update to elementary 6.1 runtime"
+#~ msgstr "نوێکردنەوە بۆ ڕەنتایمی ئێلێمەنتەری ٦.١"
+
+#~ msgid "Showing advanced controls only affects the focused window"
+#~ msgstr "پشاندنی کۆنتڕۆڵی پێشکەوتوو تەنها کاریگەری لەسەر پەنجەری کارا دەبێت"
+
+#~ msgid "Focus the main text entry on startup"
+#~ msgstr "سەرنج بخە سەر دەقی سەرەکی هاتنەناو لە کاتی دەست پێ کردن"
+
+#~ msgid "Show the correct window title in Multitasking View"
+#~ msgstr "پیشاندانی تایتڵی دروستی پەنجەرەکان لە مەڵتی-تاسکیندا"
+
+#~ msgid "Added 'New Window' Desktop Action"
+#~ msgstr "کرداری ڕوومێزی 'پەنجەری تازە' زیاد کرا"
+
+#~ msgid "New features:"
+#~ msgstr "تایبەتمەندییە تازەکان:"
+
+#~ msgid "Add a \"Clear History\" button to the history dialog"
+#~ msgstr "زیادکردنی دوگمەیەکی \"سڕینەوەی مێژوو\" بۆ دایەلۆگی مێژوو"
+
+#~ msgid "Fixed an issue with multiple windows"
+#~ msgstr "کێشەیەک لەگەڵ چەند پەنجەرەیەک چارەسەر کراوە"
+
+#~ msgid "More informative copy in history dialog"
+#~ msgstr "وێنەیەکی زانیاری زیاتر لە دایەلۆگی مێژوودا"
+
+#~ msgid "Add log and inverse trigonometric functions"
+#~ msgstr "زیادکردنی لۆگ و کردارە سێگۆشەییە پێچەوانەکان"
+
+#~ msgid "Other updates:"
+#~ msgstr "نوێکارییەکانی تر:"
+
+#~ msgid "Fix an issue with negative decimals without leading digits"
+#~ msgstr "چارەسەرکردنی کێشەیەک لە دەییە سالبەکان بەبێ ژمارەی پێشەنگ"
+
+#~ msgid "More efficient state saving"
+#~ msgstr "پاشەکەوتکردنی دۆخی کاراتر"
+
+#~ msgid "Use slim titlebar"
+#~ msgstr "بەکارهێنانی تایتڵباڕێکی باریک"
+
+#~ msgid "Fix inserting multi-byte characters"
+#~ msgstr "چارەسەری نووسینی کارێکتەری مەڵتی بایت"
+
+#~ msgid "Fix missing icon for Ukrainian"
+#~ msgstr "چارەسەرکردنی ئایکۆنی ونبوو بۆ ئۆکراینا"
+
+#~ msgid "Animate Infobar when hiding and showing"
+#~ msgstr "زیادکردنی ئەنیمەیشن بۆ ئینفۆباڕ لە کاتی پیشاندان و شاردنەوە"
+
+#~ msgid "Fix selection replace"
+#~ msgstr "چارەسەری جێگری دیاریکردن"
+
+#~ msgid "Improved decimal separator localization"
+#~ msgstr "گەشە بە لۆکاڵیزەیشنی جیاکەرەوەی دەیی دراوە"
+
+#~ msgid "About Calculator"
+#~ msgstr "دەربارەی ژمێرەر"
