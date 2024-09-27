@@ -18,7 +18,7 @@ Run `meson build` to configure the build environment. Change to the build direct
     cd build
     ninja test
 
-To install, use `ninja install`, then execute with `io.phyreos.calculator`
+To install, use `ninja install`, then execute with `io.phyre.calculator`
 
     sudo ninja install
-    io.phyreos.calculator
+    io.phyre.calculator
