@@ -20,12 +20,12 @@ msgstr ""
 "X-Generator: Weblate 4.17\n"
 
 #: data/calculator.metainfo.xml.in:10
-#: data/io.elementary.calculator.desktop.in:6
+#: data/io.phyre.calculator.desktop.in:6
 msgid "Calculator"
 msgstr "Calculator"
 
 #: data/calculator.metainfo.xml.in:11
-#: data/io.elementary.calculator.desktop.in:7
+#: data/io.phyre.calculator.desktop.in:7
 msgid "Solve simple equations"
 msgstr "Solve simple equations"
 
@@ -74,11 +74,11 @@ msgid "Update for OS 7 and Gtk 4"
 msgstr "Update for OS 7 and Gtk 4"
 
 #. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
-#: data/io.elementary.calculator.desktop.in:10
+#: data/io.phyre.calculator.desktop.in:10
 msgid "Calculation;Mathematics;Arithmetic;Scientific;"
 msgstr "Calculation;Mathematics;Arithmetic;Scientific;"
 
-#: data/io.elementary.calculator.desktop.in:21
+#: data/io.phyre.calculator.desktop.in:21
 msgid "New Window"
 msgstr "New Window"
 
@@ -142,8 +142,8 @@ msgstr "New Window"
 #~ msgid "Improved decimal separator localization"
 #~ msgstr "Improved decimal separator localisation"
 
-#~ msgid "io.elementary.calculator"
-#~ msgstr "io.elementary.calculator"
+#~ msgid "io.phyre.calculator"
+#~ msgstr "io.phyre.calculator"
 
 #~ msgid "accessories-calculator"
 #~ msgstr "accessories-calculator"

@@ -21,12 +21,12 @@ msgstr ""
 "X-Launchpad-Export-Date: 2016-12-31 04:44+0000\n"
 
 #: data/calculator.metainfo.xml.in:10
-#: data/io.elementary.calculator.desktop.in:6
+#: data/io.phyre.calculator.desktop.in:6
 msgid "Calculator"
 msgstr "Калкулатор"
 
 #: data/calculator.metainfo.xml.in:11
-#: data/io.elementary.calculator.desktop.in:7
+#: data/io.phyre.calculator.desktop.in:7
 msgid "Solve simple equations"
 msgstr "Решаване на прости уравнения"
 
@@ -75,11 +75,11 @@ msgid "Update for OS 7 and Gtk 4"
 msgstr ""
 
 #. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
-#: data/io.elementary.calculator.desktop.in:10
+#: data/io.phyre.calculator.desktop.in:10
 msgid "Calculation;Mathematics;Arithmetic;Scientific;"
 msgstr ""
 
-#: data/io.elementary.calculator.desktop.in:21
+#: data/io.phyre.calculator.desktop.in:21
 msgid "New Window"
 msgstr ""
 

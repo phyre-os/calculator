@@ -35,7 +35,7 @@ jobs:
         uses: flatpak/flatpak-github-actions/flatpak-builder@v6
         with:
           bundle: calculator.flatpak
-          manifest-path: io.elementary.calculator.yml
+          manifest-path: io.phyre.calculator.yml
           repository-name: appcenter
           repository-url: https://flatpak.phyre-os.io/repo.flatpakrepo
           cache-key: "flatpak-builder-${{ github.sha }}"

@@ -65,7 +65,7 @@ public class PantheonCalculator.MainWindow : Gtk.ApplicationWindow {
     };
 
     static construct {
-        settings = new Settings ("io.elementary.calculator.saved-state");
+        settings = new Settings ("io.phyre.calculator.saved-state");
     }
 
     public MainWindow (Gtk.Application application) {
