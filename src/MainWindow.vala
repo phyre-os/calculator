@@ -236,9 +236,9 @@ public class PantheonCalculator.MainWindow : Gtk.ApplicationWindow {
         };
 
         var basic_grid = new Gtk.Grid () {
-            column_spacing = 6,
-            row_spacing = 6,
-            row_spacing = 6,
+            column_spacing = 1,
+            row_spacing = 1,
+            row_spacing = 1,
             row_homogeneous = true
         };
 
@@ -402,9 +402,9 @@ public class PantheonCalculator.MainWindow : Gtk.ApplicationWindow {
         };
 
         var extended_grid = new Gtk.Grid () {
-            margin_start = 6,
-            column_spacing = 6,
-            row_spacing = 6,
+            margin_start = 1,
+            column_spacing = 1,
+            row_spacing = 1,
             valign = Gtk.Align.FILL,
             row_homogeneous = true
         };
@@ -446,10 +446,10 @@ public class PantheonCalculator.MainWindow : Gtk.ApplicationWindow {
         };
 
         var main_grid = new Gtk.Box (Gtk.Orientation.HORIZONTAL, 0) {
-            margin_start = 6,
-            margin_end = 6,
-            margin_bottom = 6,
-            margin_top = 6
+            margin_start = 1,
+            margin_end = 1,
+            margin_bottom = 1,
+            margin_top =1
         };
         main_grid.append (basic_grid);
         main_grid.append (extended_revealer);
