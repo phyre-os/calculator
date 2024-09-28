@@ -148,21 +148,21 @@ public class PantheonCalculator.MainWindow : Gtk.ApplicationWindow {
             action_target = new Variant.string ("+"),
             tooltip_text = _("Add")
         };
-        button_add.add_css_class (Granite.STYLE_CLASS_H3_LABEL);
+        button_add.add_css_class (Granite.STYLE_CLASS_H2_LABEL);
 
         var button_sub = new Button (" − ") {
             action_name = ACTION_PREFIX + ACTION_INSERT,
             action_target = new Variant.string ("-"),
             tooltip_text = _("Subtract")
         };
-        button_sub.add_css_class (Granite.STYLE_CLASS_H3_LABEL);
+        button_sub.add_css_class (Granite.STYLE_CLASS_H2_LABEL);
 
         var button_mult = new Button (" × ") {
             action_name = ACTION_PREFIX + ACTION_INSERT,
             action_target = new Variant.string ("×"),
             tooltip_text = _("Multiply")
         };
-        button_mult.add_css_class (Granite.STYLE_CLASS_H3_LABEL);
+        button_mult.add_css_class (Granite.STYLE_CLASS_H2_LABEL);
         button_mult.add_css_class (Granite.STYLE_CLASS_SUGGESTED_ACTION);
 
         var button_div = new Button (" ÷ ") {
